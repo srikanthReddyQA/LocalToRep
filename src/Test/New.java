@@ -17,7 +17,11 @@ System.out.println("added thrid comment in git");
 		  System.out.println("added from git");
 		  
 		  System.out.println("added 3 rd from local");
+<<<<<<< Updated upstream
 		      System.out.println("added 4 from git");
+=======
+		  System.out.println("added 4 th from local");
+>>>>>>> Stashed changes
 
 	    } 
 	}
