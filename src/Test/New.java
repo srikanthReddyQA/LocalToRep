@@ -9,7 +9,7 @@ public class New {
 	        String s= new String("HELLO");
 	        System.out.println(s1 == s2); 
 	        System.out.println(s1.equals(s2)); 
-	        
+	        System.out.println("new");
 	    } 
 	}
 
