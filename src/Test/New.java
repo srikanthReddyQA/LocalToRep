@@ -15,6 +15,8 @@ public class New {
 	         System.out.println("added send comment in git");
 System.out.println("added thrid comment in git");
 		  System.out.println("added from git");
+		  
+		  System.out.println("added 3 rd from local");
 
 	    } 
 	}
