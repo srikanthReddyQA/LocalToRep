@@ -10,8 +10,12 @@ public class New {
 	        System.out.println(s1 == s2); 
 	        System.out.println(s1.equals(s2)); 
 	        System.out.println("new");
+
 	        System.out.println("added from local");
 	        
+
+		  System.out.println("added from git");
+
 	    } 
 	}
 
